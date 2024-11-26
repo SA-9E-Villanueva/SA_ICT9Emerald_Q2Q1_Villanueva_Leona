@@ -1,0 +1,20 @@
+body{
+	background-color: indianred;
+	font-family: Verdana;
+}
+
+
+img{
+	width:300px;
+}
+
+.header {
+  padding: 40px;
+  text-align: center;
+  background-image: url('https://www.ruchishah.in/wp-content/uploads/2020/10/Untitled_Artwork-1-6.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: indianred;
+  font-family: Verdana;
+  font-size: 30px;
